@@ -1,0 +1,5 @@
+halo ilham, saya makoto dari bandung
+
+resolusi saya:
+- membuat website menggunakan framework javascript
+- bekerja di startup
